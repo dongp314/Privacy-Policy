@@ -10,7 +10,7 @@ It is Gravity Studio’ policy to respect and protect your privacy when visiting
 
 From time to time, Gravity Studio may collect personal and non-personal information about a visitor to one of our sites and/or when using or playing one of our games on a Platform. The information that we collect may include, but is not limited to: names, home addresses, e-mail addresses, age, telephone numbers, gender and/or information associated with your account and identification on the Platform on which you access an application published by Gravity Studio.
 
-By installing and playing one of our games on a Platform, including without limitation, the App Stores operated by Apple, you are permitting Gravity Studio to obtain, gather and use the user information on that Platform in accordance with its own terms and conditions. Likewise, if you install and play one of our games on a mobile device such as a mobile phone or tablet computer, we may also such information as your IP address.
+By installing and playing one of our games on a Platform, including without limitation, the App Stores operated by Apple, Play Stores operated by Google, you are permitting Gravity Studio to obtain, gather and use the user information on that Platform in accordance with its own terms and conditions. Likewise, if you install and play one of our games on a mobile device such as a mobile phone or tablet computer, we may also such information as your IP address.
 
 We may also collect your personal information online through the following non-exclusive methods:
 
